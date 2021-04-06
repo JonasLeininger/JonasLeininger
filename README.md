@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JonasLeininger
+- 👀 I’m interested in AI and robotics
+- 🌱 I’m currently learning/reading new Deep Reinforcement Learning and Object Detection algorithms
+- 📫 How to reach me jonas.leininger@rewe-digital.com
